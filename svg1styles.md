@@ -214,7 +214,7 @@ Emm...作为一个成熟稳重思维清晰的设计师，这样的步骤显得�
 
 由此看来，path 的绘图方式是十分高效的，其中在曲线的绘制上也是类似的划线方式，跟在矢量软件中作图一个原理，分为：
 
-![image-20191210122359703](/Users/fangchuanqian/Library/Mobile Documents/com~apple~CloudDocs/文章写作/SVG 教程/image-20191210122359703.png)
+![](https://cdn.jsdelivr.net/gh/Himsann/writing@master/image-20191210122359703.png)
 
 这一部分细究起来，跟设计师矢量绘图的思路基本一致，其中点与点之间的连接还有很多细节，对于设计师来说，简单了解原理即可，此外如果要做路径动画，最低成本实现的方式，就是 SVG 画曲线，目标跟着曲线“绘图”的数据移动，并加以控制，这时候更具体的曲线绘图知识就可以用到：[SVG path 详解](https://cloud.tencent.com/developer/section/1423869)。路径动画的具体参数不用手动写，在矢量软件中画好，复制其曲线参数给到前端即可，可见可得，是未来的趋势。
 

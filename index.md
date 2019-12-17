@@ -14,7 +14,7 @@
 
 计划要写 SVG 三篇，从设计师的角度去理解并且实践验证落地的方式：
 
-1、[SVG 原理和样式：《进击的 SVG 样式——代码写慢点我晕》](https://github.com/Himsann/Himsann.github.io/blob/master/%E8%BF%9B%E5%87%BB%E7%9A%84SVG%20%E6%A0%B7%E5%BC%8F_%E4%BB%A3%E7%A0%81%E5%86%99%E6%85%A2%E7%82%B9%E6%88%91%E6%99%95.md)
+1、[SVG 原理和样式：《进击的 SVG 样式——代码写慢点我晕》](https://Himsann.github.io/SVG1styles)
 
 2、SVG 动画：《进击的 SVG 动画——这车又快又稳》//未完成
 
